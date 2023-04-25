@@ -1,1 +1,1 @@
-# Constraining-Cosmological-Parameters-using-Supernovae
+# Constraining Cosmological Parameters using Supernovae
